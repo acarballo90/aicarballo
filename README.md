@@ -52,7 +52,7 @@ The serious stuff. Each one chosen because it taught me something, or at least m
 
 For when you want to learn something while pretending to do something useful, but mostly you're just dodging responsibilities with style.
 
-| #   | Episode | Guest           | Link                                                                 | Topic     | Description                                                  |
+| #   | Podcast | Guest           | Link                                                                 | Topic     | Description                                                  |
 |-----|---------|------------------|----------------------------------------------------------------------|-----------|--------------------------------------------------------------|
 | 01  | DOAC    | Geoffrey Hinton  | [🎧](https://open.spotify.com/episode/4X7dO0FuglP7yTm0kBAc50) | AI Risks  |  A necessary downer for AI enthusiasts. |
 
@@ -71,4 +71,4 @@ Actual books. With pages. And ideas. Sometimes big, sometimes weird. Always wort
 
 ## 🤝 Contributing
 
-Know something smart? Heard something wild? Send it my way. I can’t promise eternal fame, but you might end up in a table
+Know something smart? Heard something wild? Send it my way. I can’t promise eternal fame, but you might end up in a table.
