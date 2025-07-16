@@ -20,7 +20,7 @@ Think of this repo as a lifeboat in a vast ocean of noise, hype, and buzzwords. 
 Those are mine.  
 They're messy little experiments. Part learning journal, part sandbox, part "wait... what happens if I just do this?". Sometimes they'll follow a paper, sometimes they'll chase a random idea. But they're just a way to understand things better (or break them beautifully).
 
-This isn't a newsletter, a course, or a Substack sales funnel in disguise.  
+This isn't a newsletter, a course, or a sales funnel in disguise.  
 It's just a personal attempt to filter signal from noise and maybe help someone else along the way.
 
 You won't get smarter just by cloning the repo, but at least you'll drown in slightly better content (I hope).
