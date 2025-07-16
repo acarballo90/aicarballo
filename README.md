@@ -1,3 +1,9 @@
+# AIcarballo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acarballoalvarez/)
+
+---
+
 ## ⚠️ Disclaimer (or: What Is This?)
 
 Does the internet need *another* AI blog?  
@@ -27,7 +33,7 @@ My own little experiments. Proceed with curiosity and low expectations.
 
 | #   | Topic | Title                                      | Link                                                          | Description                                       |
 |-----|-------|--------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|
-| 01  | ML    | Fast & Smart: Training and Tuning LightGBM | [🔬 lightgbm_model.ipynb](notebooks/lightgbm_model.ipynb)  | LightGBM training, tuning, and comparison with XGBoost |
+| 01  | ML    | Fast & Smart: Training and Tuning LightGBM | [🔬](notebooks/lightgbm_model.ipynb)  | LightGBM training, tuning, and comparison with XGBoost |
 
 ---
 
