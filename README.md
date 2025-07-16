@@ -70,4 +70,13 @@ Actual books. With pages. And ideas. Sometimes big, sometimes weird. Always wort
 
 ## 🤝 Contributing
 
-Know something smart? Heard something wild? Send it my way. I can't promise eternal fame, but you might end up in a table.
+Stumbled on something great? Send it my way. I can't promise eternal fame, but you might end up in a table.
+
+---
+
+## 📜 Terms of Use
+
+Use this repo for learning, exploring. Share it, fork it or reference it.
+Just don’t sell it, claim it’s yours, or blame me if something catches fire.  
+The notebooks are mine. The opinions are mine. The bugs are probably also mine.  
+External content belongs to its original authors so give credit where credit’s due.  
