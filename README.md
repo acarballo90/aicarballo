@@ -43,7 +43,7 @@ Papers that dig deep, articles that spark ideas, and the occasional read that in
 
 | #   | Title                                                                 | Author(s)             | Link                                                        | Topic | Description |
 |------|-----------------------------------------------------------------------|------------------------|-------------------------------------------------------------|-------|-------------|
-| 01   | Will we run out of data? Limits of LLM scaling based on human-generated data | Villalobos et al. (2022) | [🔗](https://arxiv.org/abs/2211.04325)                    | LLMs  | A paper that basically says: yes, we might, especially when it comes to high-quality data. This is where LLMs start to hit a wall, not because of GPU limits, but because humans can only write so many Reddit posts before we run out of novelty. |
+| 01   | Will we run out of data? Limits of LLM scaling based on human-generated data | Villalobos et al. (2022) | [🔗](https://arxiv.org/abs/2211.04325)                    | LLMs  | A paper that basically says: yes, we might, especially when it comes to high-quality data. |
 
 ---
 
@@ -63,7 +63,7 @@ Actual books. With pages. And ideas. Sometimes big, sometimes weird. Always wort
 
 | #   | Title                                                                                  | Author              | Link                                                                                   | Description |
 |------|----------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------------------------|-------------|
-| 01   | Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism                | Sarah Wynn-Williams | [📘](https://www.amazon.es/Careless-People-Cautionary-Power-Idealism/dp/1250391237)   | Perfect for a summer read. The only thing the title doesn't mention is that it's actually about Facebook; everything else is true. |
+| 01   | Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism                | Sarah Wynn-Williams | [📘](https://www.amazon.es/Careless-People-Cautionary-Power-Idealism/dp/1250391237)   | The only thing the title doesn't mention is that it's actually about Facebook. |
 | 02   | Supremacy: AI, ChatGPT, and the Race that Will Change the World                      | Parmy Olson         | [📘](https://www.amazon.es/Supremacy-ChatGPT-Change-World-English-ebook/dp/B0CLJTMF84) | *Still reading. Could be genius, could be nonsense.* |
 
 ---
