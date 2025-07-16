@@ -31,9 +31,10 @@ You won’t get smarter just by cloning the repo but at least you’ll drown in 
 
 My own little experiments. Proceed with curiosity and low expectations.
 
-| #   | Topic | Title                                      | Link                                                          | Description                                       |
-|-----|-------|--------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|
-| 01  | ML    | Fast & Smart: Training and Tuning LightGBM | [🔬](notebooks/lightgbm_model.ipynb)  | LightGBM training, tuning, and comparison with XGBoost |
+| #   | Title                                      | Link                                                          | Topic | Description                                       |
+|-----|--------------------------------------------|---------------------------------------------------------------|-------|---------------------------------------------------|
+| 01  | Fast & Smart: Training and Tuning LightGBM | [🔬](notebooks/lightgbm_model.ipynb)                          | ML    | LightGBM training, tuning, and comparison with XGBoost |
+
 
 ---
 
@@ -51,9 +52,9 @@ The serious stuff. Each one chosen because it taught me something, or at least m
 
 For when you want to learn something while pretending to do something useful, but mostly you're just dodging responsibilities with style.
 
-| #   | Episode | Guest           | Link                                                                 | Topic                             |
-|-----|---------|------------------|----------------------------------------------------------------------|-----------------------------------|
-| 01  | DOAC    | Geoffery Hinton  | [🎧](https://open.spotify.com/episode/4X7dO0FuglP7yTm0kBAc50)        | A necessary downer for AI enthusiasts. |
+| #   | Episode | Guest           | Link                                                                 | Topic     | Description                                                  |
+|-----|---------|------------------|----------------------------------------------------------------------|-----------|--------------------------------------------------------------|
+| 01  | DOAC    | Geoffrey Hinton  | [🎧](https://open.spotify.com/episode/4X7dO0FuglP7yTm0kBAc50) | AI Risks  |  A necessary downer for AI enthusiasts. |
 
 ---
 
