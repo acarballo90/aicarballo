@@ -38,9 +38,9 @@ My own little experiments. Proceed with curiosity and low expectations.
 
 ---
 
-## 🧠 Papers
+## 🧠 Papers & Reads
 
-The serious stuff. Each one chosen because it taught me something, or at least made me pretend I understood it for a while.
+Papers that dig deep, articles that spark ideas and the occasional read that invites confident nodding followed by total confusion.
 
 | #   | Title                                                                 | Author(s)             | Link                                                        | Topic | Description |
 |------|-----------------------------------------------------------------------|------------------------|-------------------------------------------------------------|-------|-------------|
