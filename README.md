@@ -9,10 +9,10 @@
 Does the internet need *another* AI blog?  
 **No.**
 
-Does the world need *yet another* random person yapping about AI?  
+Does the world need *yet another* random person talking about AI?  
 **Also no.**
 
-So... what is *this*, then?
+So... what is this, then?
 
 Think of this repo as a lifeboat in a vast ocean of noise, hype, and buzzwords. Every week, or whenever I feel like it, I'll share one or two things that I genuinely found **useful**, **thought-provoking**, or just plain **cool**: papers, podcasts, books, and...
 
