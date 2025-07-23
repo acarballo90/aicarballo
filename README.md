@@ -34,6 +34,7 @@ My own little experiments. Proceed with curiosity and low expectations.
 | #   | Title                                      | Link                                                          | Topic | Description                                       |
 |-----|--------------------------------------------|---------------------------------------------------------------|-------|---------------------------------------------------|
 | 01  | Fast & Smart: Training and Tuning LightGBM | [🔬](notebooks/lightgbm_model.ipynb)                          | ML    | LightGBM training, tuning, and comparison with XGBoost |
+| 02  | Even the Best Agent Can’t Solve a Shitty Task | [🔬](notebooks/text_classification_agent.ipynb)               | LLMs, Agents    | A text classification agent or just a pointless task |
 
 ---
 
@@ -44,6 +45,7 @@ Papers that dig deep, articles that spark ideas, and the occasional read that in
 | #   | Title                                                                 | Author(s)             | Link                                                        | Topic | Description |
 |------|-----------------------------------------------------------------------|------------------------|-------------------------------------------------------------|-------|-------------|
 | 01   | Will we run out of data? Limits of LLM scaling based on human-generated data | Villalobos et al. (2022) | [🔗](https://arxiv.org/abs/2211.04325)                    | LLMs  | A paper that basically says: yes, we might, especially when it comes to high-quality data. |
+| 02   | How Language Model Hallucinations Can Snowball | Zhang et al. (2023) | [🔗](https://arxiv.org/abs/2305.13534)                    | LLMs  | When your LLM lies and then builds an entire fake Wikipedia around it. |
 
 ---
 
@@ -53,7 +55,8 @@ For when you want to learn something while pretending to do something useful, bu
 
 | #   | Podcast | Guest           | Link                                                                 | Topic     | Description                                                  |
 |-----|---------|------------------|----------------------------------------------------------------------|-----------|--------------------------------------------------------------|
-| 01  | DOAC    | Geoffrey Hinton  | [🎧](https://open.spotify.com/episode/4X7dO0FuglP7yTm0kBAc50)        | AI Risks  | A necessary downer for AI enthusiasts. |
+| 01  | DOAC    | Geoffrey Hinton (University of Toronto) | [🎧](https://open.spotify.com/episode/4X7dO0FuglP7yTm0kBAc50)        | AI Risks  | A necessary downer for AI enthusiasts. |
+| 02  | Decoder    | Kevin Scott (Microsoft)  | [🎧](https://open.spotify.com/episode/30KCxisZ2kKsx2ATXb4KBq)        | Agents  | On the agentic web, MCP and the future of search |
 
 ---
 
